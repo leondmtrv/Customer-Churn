@@ -55,7 +55,6 @@ To run the notebook and reproduce the results, ensure you have the following dep
 - NumPy
 - Scikit-learn
 - Matplotlib
-- Seaborn
 
 You can install the required packages using:
 
